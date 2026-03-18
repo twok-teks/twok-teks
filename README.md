@@ -98,7 +98,7 @@ My long-term interests include:
 `[██░░░░░░░░░░░░░░░░] 10%`
 
 📁 **Research Repo:**  
-[twok-teks/YOUR_RESEARCH_REPO](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+[ACESS RESEARCH REPO](https://github.com/twok-teks/llm-hallucination-analysis)
 
 📝 **Current Phase:** defining experiment structure, reading relevant papers, and building the foundation for future model analysis.
 
@@ -108,7 +108,7 @@ My long-term interests include:
 
 <div align="center">
 
-[![Research Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=YOUR_RESEARCH_REPO&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+[![Research Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=llm-hallucination-analysis&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/llm-hallucination-analysis)
 
 [![Fall Foliage Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=Fall_Foliage_ML_Model&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/Fall_Foliage_ML_Model)
 

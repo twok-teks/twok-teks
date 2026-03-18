@@ -2,7 +2,7 @@
 
 <img src="./assets/project-terminal.svg" width="100%" alt="arcade terminal banner" />
 
-# 👾 KHANH VAN
+# Khanh Van
 ### `Software Engineer`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2200&pause=850&color=C77DFF&center=true&vCenter=true&width=980&lines=INSERT+COIN;PLAYER+ONE%3A+KHANH+VAN;BACKEND+%7C+CLOUD+%7C+AI%2FML;BUILDING+SYSTEMS+THAT+ACTUALLY+DO+SOMETHING;READY+TO+KHANHQUER+CHALLENGES" alt="Typing SVG" />
@@ -18,18 +18,9 @@
 
 <div align="center">
 
-## 🎮 PLAYER PROFILE
+## 👾 ABOUT ME 👾
 
 </div>
-
-```txt
-Name        : Khanh Van
-Class       : Software Engineer
-Build       : Backend / Cloud / AI
-Playstyle   : Solve complex problems, build useful systems, keep leveling up
-Current XP  : AWS • CI/CD • scalable backend systems • ML research
-Location    : Texas
-```
 
 I’m a software engineer who enjoys building reliable systems, deploying practical applications, and learning deeply enough to understand how things work under the hood. My work and projects span backend development, cloud deployment, CI/CD, full-stack applications, and machine learning.
 

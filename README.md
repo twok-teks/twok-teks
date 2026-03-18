@@ -97,7 +97,10 @@ My long-term interests include:
 ### Transformer Layer Behavior Study
 `[██░░░░░░░░░░░░░░░░] 10%`
 
-🔗 **Research Repo:** [twok-teks/YOUR_RESEARCH_REPO](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+📁 **Research Repo:**  
+[twok-teks/YOUR_RESEARCH_REPO](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+
+📝 **Current Phase:** defining experiment structure, reading relevant papers, and building the foundation for future model analysis.
 
 ---
 

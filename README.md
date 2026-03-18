@@ -1,17 +1,8 @@
 <div align="center">
-
-<img src="./assets/project-terminal.svg" width="100%" alt="arcade terminal banner" />
-
 # 👾 KHANH VAN
 ### `Software Engineer` • `Backend` • `Cloud` • `AI/ML`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2200&pause=850&color=C77DFF&center=true&vCenter=true&width=980&lines=INSERT+COIN;PLAYER+ONE%3A+KHANH+VAN;BACKEND+%7C+CLOUD+%7C+AI%2FML;BUILDING+SYSTEMS+THAT+ACTUALLY+DO+SOMETHING;READY+TO+KHANHQUER+CHALLENGES" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="./assets/pixel-khanh.svg" width="220" alt="pixel avatar of Khanh" />
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/ENTER_PORTAL-twok--teks.space-9D4EDD?style=for-the-badge)](https://twok-teks.space/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge)](YOUR_LINKEDIN_URL)

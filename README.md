@@ -118,6 +118,14 @@ My long-term interests include:
 
 ---
 
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=twok-teks&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+</div>
+
+---
+
 ## 🌿 SIDE QUESTS
 
 - 🌎 Traveling and exploring new places

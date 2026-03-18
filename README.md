@@ -1,4 +1,7 @@
 <div align="center">
+
+<img src="./assets/project-terminal.svg" width="100%" alt="arcade terminal banner" />
+
 # 👾 KHANH VAN
 ### `Software Engineer` • `Backend` • `Cloud` • `AI/ML`
 

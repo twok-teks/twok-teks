@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1 align="center">Howdy! I'm Khanh Van</h1>
+<h1 align="center">Howdy! 🤘 I'm Khanh Van</h1>
 
 ### `Software Engineer`
 
@@ -99,7 +99,7 @@ My long-term interests include:
 `[██░░░░░░░░░░░░░░░░] 10%`
 
 📁 **Research Repo:**  
-[ACESS RESEARCH REPO](https://github.com/twok-teks/llm-hallucination-analysis)
+[ACCESS RESEARCH REPO](https://github.com/twok-teks/llm-hallucination-analysis)
 
 📝 **Current Phase:** defining experiment structure, reading relevant papers, and building the foundation for future model analysis.
 

@@ -110,7 +110,7 @@ My long-term interests include:
 
 [![Research Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=YOUR_RESEARCH_REPO&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
 
-[![Fall Foliage Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=YOUR_FALL_FOLIAGE_REPO&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/YOUR_FALL_FOLIAGE_REPO)
+[![Fall Foliage Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=Fall_Foliage_ML_Model&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/Fall_Foliage_ML_Model)
 
 </div>
 

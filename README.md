@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/project-terminal.svg" width="100%" alt="arcade terminal banner" />
 
 # Khanh Van
 ### `Software Engineer`

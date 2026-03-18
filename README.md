@@ -104,6 +104,18 @@ My long-term interests include:
 
 ---
 
+## 🎯 FEATURED PORTALS
+
+<div align="center">
+
+[![Research Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=YOUR_RESEARCH_REPO&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+
+[![Fall Foliage Repo](https://github-readme-stats.vercel.app/api/pin/?username=twok-teks&repo=YOUR_FALL_FOLIAGE_REPO&theme=tokyonight&hide_border=true)](https://github.com/twok-teks/YOUR_FALL_FOLIAGE_REPO)
+
+</div>
+
+---
+
 ## 📊 SYSTEM METRICS
 
 <div align="center">
@@ -132,14 +144,6 @@ My long-term interests include:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/twok-teks/twok-teks/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=twok-teks&theme=onestar&no-frame=true&margin-w=10" />
 </div>
 
 ---

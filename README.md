@@ -86,6 +86,21 @@ My long-term interests include:
 
 ---
 
+## 🧪 RESEARCH PROGRESS
+
+### LLM Hallucination Pathway Analysis
+`[███████░░░░░░░░░░░] 35%`
+
+### Interpretability Notes & Experiments
+`[███░░░░░░░░░░░░░░░] 15%`
+
+### Transformer Layer Behavior Study
+`[██░░░░░░░░░░░░░░░░] 10%`
+
+🔗 **Research Repo:** [twok-teks/YOUR_RESEARCH_REPO](https://github.com/twok-teks/YOUR_RESEARCH_REPO)
+
+---
+
 ## 📊 SYSTEM METRICS
 
 <div align="center">

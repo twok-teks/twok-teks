@@ -260,8 +260,8 @@ My long-term interests include:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTAL-VISIT_SITE-9D4EDD?style=for-the-badge)](https://twok-teks.space/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vnqkhanh/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge)](mailto:vnqkhanh02@gmail.com)
 
 </div>
 

@@ -1,0 +1,30 @@
+<svg width="1400" height="340" viewBox="0 0 1400 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#07040c"/>
+      <stop offset="50%" stop-color="#2b123a"/>
+      <stop offset="100%" stop-color="#6a00f4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="340" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1320" height="260" rx="18" fill="#120a1c" stroke="#c77dff" stroke-width="4"/>
+
+  <circle cx="90" cy="78" r="10" fill="#ff5f56"/>
+  <circle cx="122" cy="78" r="10" fill="#ffbd2e"/>
+  <circle cx="154" cy="78" r="10" fill="#27c93f"/>
+
+  <text x="700" y="85" font-family="monospace" font-size="22" fill="#f7d6ff" text-anchor="middle">twok-teks / arcade terminal</text>
+
+  <text x="90" y="140" font-family="monospace" font-size="30" fill="#c77dff">$ whoami</text>
+  <text x="270" y="140" font-family="monospace" font-size="30" fill="#ffffff">Khanh Van</text>
+
+  <text x="90" y="190" font-family="monospace" font-size="30" fill="#c77dff">$ class</text>
+  <text x="250" y="190" font-family="monospace" font-size="30" fill="#ffffff">Software Engineer</text>
+
+  <text x="90" y="240" font-family="monospace" font-size="30" fill="#c77dff">$ build</text>
+  <text x="250" y="240" font-family="monospace" font-size="30" fill="#ffffff">Backend / Cloud / AI</text>
+
+  <text x="90" y="290" font-family="monospace" font-size="30" fill="#c77dff">$ status</text>
+  <text x="270" y="290" font-family="monospace" font-size="30" fill="#ffffff">Ready to Khanhquer Challenges_</text>
+</svg>

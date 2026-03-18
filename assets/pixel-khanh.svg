@@ -1,0 +1,29 @@
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect width="320" height="320" fill="#07040c"/>
+  <rect x="32" y="32" width="256" height="256" fill="#1a1026" stroke="#c77dff" stroke-width="4"/>
+
+  <rect x="112" y="72" width="96" height="24" fill="#1b1026"/>
+  <rect x="96" y="88" width="128" height="16" fill="#111111"/>
+
+  <rect x="104" y="104" width="112" height="16" fill="#111111"/>
+  <rect x="88" y="120" width="144" height="16" fill="#111111"/>
+  <rect x="80" y="136" width="160" height="16" fill="#111111"/>
+
+  <rect x="96" y="152" width="128" height="16" fill="#f1c27d"/>
+  <rect x="88" y="168" width="144" height="16" fill="#f1c27d"/>
+  <rect x="80" y="184" width="160" height="16" fill="#f1c27d"/>
+  <rect x="88" y="200" width="144" height="16" fill="#f1c27d"/>
+
+  <rect x="104" y="168" width="16" height="16" fill="#111111"/>
+  <rect x="200" y="168" width="16" height="16" fill="#111111"/>
+
+  <rect x="136" y="200" width="48" height="8" fill="#d98c5f"/>
+
+  <rect x="64" y="216" width="192" height="24" fill="#5a189a"/>
+  <rect x="80" y="240" width="160" height="24" fill="#7b2cbf"/>
+  <rect x="96" y="264" width="128" height="16" fill="#9d4edd"/>
+
+  <rect x="120" y="232" width="80" height="8" fill="#f7d6ff"/>
+
+  <text x="160" y="306" font-family="monospace" font-size="20" text-anchor="middle" fill="#c77dff">KV</text>
+</svg>

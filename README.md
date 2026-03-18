@@ -8,8 +8,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2200&pause=850&color=C77DFF&center=true&vCenter=true&width=980&lines=INSERT+COIN;PLAYER+ONE%3A+KHANH+VAN;BACKEND+%7C+CLOUD+%7C+AI%2FML;BUILDING+SYSTEMS+THAT+ACTUALLY+DO+SOMETHING;READY+TO+KHANHQUER+CHALLENGES" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/ENTER_PORTAL-twok--teks.space-9D4EDD?style=for-the-badge)](https://twok-teks.space/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-SEND_SIGNAL-EA4335?style=for-the-badge)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vnqkhanh/)
+[![Email](https://img.shields.io/badge/EMAIL-SEND_SIGNAL-EA4335?style=for-the-badge)](mailto:vnqkhanh02@gmail.com)
 [![Followers](https://img.shields.io/github/followers/twok-teks?style=for-the-badge&color=7B2CBF)](https://github.com/twok-teks)
 
 </div>

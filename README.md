@@ -32,11 +32,11 @@ I’m especially interested in solving complex engineering problems with solutio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,spring,react,aws,docker,kubernetes,postgres,gitlab" alt="Core Technologies" />
+<img src="https://skillicons.dev/icons?i=java,go,python,js,spring,react,aws,docker,kubernetes,postgres,gitlab" alt="Core Technologies" />
 
 <br/><br/>
 
-`Java` · `Python` · `Spring Boot` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes` · `GitLab CI/CD`
+`Java` · `Go` · `Python` · `Spring Boot` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes` · `GitLab CI/CD`
 
 </div>
 

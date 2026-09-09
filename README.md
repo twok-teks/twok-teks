@@ -1,122 +1,96 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Khanh%20Van&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%2FML&descAlign=50&descAlignY=58&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2B124C,35:522888,70:7B2CBF,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=34&fontAlignY=40" alt="header"/>
+
+# Software Engineer
+
+### Backend · Cloud · AI/ML
+
+Building reliable software, practical systems, and thoughtful engineering solutions.
 
 <br/>
 
-### Building reliable software, practical systems, and thoughtful products.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://twok-teks.space/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vnqkhanh/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vnqkhanh02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://twok-teks.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnqkhanh/)
+[![Email](https://img.shields.io/badge/Email-Contact-8A5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:vnqkhanh02@gmail.com)
 
 </div>
 
-<br/>
+---
 
 ## About Me
 
-I'm a software engineer who enjoys turning ideas into **reliable, practical, and well-designed software**.
+I'm a software engineer who enjoys building **reliable, maintainable, and practical software**.
 
-My interests sit across **backend engineering, cloud infrastructure, developer tooling, automation, and applied AI**. I like working on systems end-to-end — understanding the problem, designing the architecture, building the application, and thinking about how it will operate in the real world.
+My work and interests span **backend development, cloud infrastructure, CI/CD, automation, full-stack applications, and applied AI/ML**. I enjoy thinking through systems end-to-end — from architecture and implementation to deployment and long-term usability.
 
-I care about software that is not only functional, but also **maintainable, scalable, and pleasant to work with**.
+I’m especially interested in software that is:
 
-<br/>
+- **Reliable** in real-world use
+- **Maintainable** as systems evolve
+- **Scalable** as complexity grows
+- **Practical** for people and teams
+- **Thoughtfully designed** from both engineering and product perspectives
 
-<table>
-<tr>
-<td width="33%" valign="top">
+---
 
-### ⚙️ Engineering
+## Focus Areas
 
-Backend systems
-APIs & services
-System design
-Automation
-Developer tooling
+- **Backend Engineering** — APIs, services, system design, and application architecture  
+- **Cloud & Infrastructure** — AWS, containers, deployment, and engineering workflows  
+- **DevOps & Automation** — CI/CD, tooling, and improving developer productivity  
+- **Applied AI/ML** — practical machine learning systems and LLM-oriented exploration  
 
-</td>
+---
 
-<td width="33%" valign="top">
-
-### ☁️ Infrastructure
-
-AWS
-Containers
-CI/CD
-Cloud deployment
-Production workflows
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 AI
-
-Applied AI
-Machine learning
-LLM systems
-Model reliability
-AI experimentation
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tools I Work With
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,cs,php,spring,react,nodejs" alt="Languages and Frameworks" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,cs,php,spring,react,nodejs" alt="languages and frameworks" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab,linux,mysql,postgres,mongodb" alt="Cloud DevOps and Databases" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab,linux,mysql,postgres,mongodb" alt="cloud devops and databases" />
 
 </div>
 
-<br/>
+---
 
-## How I Like to Build
+## Currently Growing In
 
-> Understand the problem deeply, keep the architecture intentional, automate what should be automated, and build things people can actually use.
+I’m currently focused on deepening my skills in:
 
-I'm especially drawn to work where **software engineering meets real-world impact** — whether that means improving a backend system, simplifying an engineering workflow, deploying something reliably, or finding a practical use for AI.
+- **Backend architecture**
+- **AWS and cloud-native systems**
+- **CI/CD and developer tooling**
+- **Practical AI engineering**
+- **Scalable system design**
 
-<br/>
+I like learning beyond surface-level usage — understanding how systems work, where tradeoffs appear, and how to build solutions that are both useful and durable.
 
-## Beyond the Terminal
+---
 
-Outside of engineering, I enjoy traveling, nature, gaming, design, and discovering new technology.
+## Beyond Engineering
+
+Outside of work, I enjoy traveling, nature, design, gaming, and learning new technology.
 
 <div align="center">
 
-`🌎 Travel`    `🌄 Outdoors`    `🎮 Gaming`    `🎨 Design`    `📚 Learning`
+`🌎 Travel` &nbsp;&nbsp; `🌄 Outdoors` &nbsp;&nbsp; `🎮 Gaming` &nbsp;&nbsp; `🎨 Design` &nbsp;&nbsp; `📚 Learning`
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-### Always building. Always learning.
+### Connect
 
-<br/>
-
-[Portfolio](https://twok-teks.space/) ·
-[LinkedIn](https://www.linkedin.com/in/vnqkhanh/) ·
-[GitHub](https://github.com/twok-teks) ·
-[Email](mailto:vnqkhanh02@gmail.com)
+[Portfolio](https://twok-teks.space/) · [LinkedIn](https://www.linkedin.com/in/vnqkhanh/) · [GitHub](https://github.com/twok-teks) · [Email](mailto:vnqkhanh02@gmail.com)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2B124C,35:522888,70:7B2CBF,100:C77DFF" alt="footer"/>
 
 </div>

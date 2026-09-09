@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2B124C,35:522888,70:7B2CBF,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=34&fontAlignY=40" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=30&fontAlignY=45&animation=fadeIn" alt="header"/>
 
 # Software Engineer
 
@@ -10,9 +10,9 @@ Building reliable software, practical systems, and thoughtful engineering soluti
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square\&logo=vercel\&logoColor=white)](https://twok-teks.space/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vnqkhanh/)
-[![Email](https://img.shields.io/badge/Email-Contact-8A5CF6?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vnqkhanh02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://twok-teks.space/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnqkhanh/)
+[![Email](https://img.shields.io/badge/Email-Contact-8A5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:vnqkhanh02@gmail.com)
 
 </div>
 
@@ -50,10 +50,10 @@ I’m especially interested in solving complex engineering problems with solutio
 
 ### ⚙️ Backend
 
-APIs & services
-Microservices
-System design
-Data integration
+APIs & services  
+Microservices  
+System design  
+Data integration  
 
 </td>
 
@@ -61,10 +61,10 @@ Data integration
 
 ### ☁️ Cloud
 
-AWS
-Containers
-CI/CD
-Infrastructure
+AWS  
+Containers  
+CI/CD  
+Infrastructure  
 
 </td>
 
@@ -72,10 +72,10 @@ Infrastructure
 
 ### 🤖 AI / ML
 
-Applied AI
-LLM systems
-RAG
-Model reliability
+Applied AI  
+LLM systems  
+RAG  
+Model reliability  
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Outside of work, I enjoy traveling, exploring nature, gaming, design, and learni
 
 <div align="center">
 
-`🌎 Travel`    `🌄 Outdoors`    `🎮 Gaming`    `🎨 Design`    `📚 Learning`
+`🌎 Travel` &nbsp;&nbsp; `🌄 Outdoors` &nbsp;&nbsp; `🎮 Gaming` &nbsp;&nbsp; `🎨 Design` &nbsp;&nbsp; `📚 Learning`
 
 </div>
 
@@ -111,6 +111,6 @@ Outside of work, I enjoy traveling, exploring nature, gaming, design, and learni
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2B124C,35:522888,70:7B2CBF,100:C77DFF" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=70&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" alt="footer"/>
 
 </div>

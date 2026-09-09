@@ -84,6 +84,6 @@ Outside of engineering, I enjoy traveling, design, nature, gaming, and learning 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" />
 
 </div>

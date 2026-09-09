@@ -31,7 +31,8 @@ I’m especially interested in creating solutions that are:
 - **Thoughtfully designed** from both engineering and product perspectives  
 
 ---
-
+### ✦ Texas Roots **Houston** &nbsp;→&nbsp; **UT Dallas** &nbsp;→&nbsp; **UT Austin** <sub>Raised in Houston · B.S. Computer Science · M.S. Computer Science</sub>
+---
 ## ⚡ Core Focus
 
 - **Backend Engineering** — APIs, services, microservices, and system design  

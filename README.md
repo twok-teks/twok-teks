@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=30&fontAlignY=45&animation=fadeIn" alt="header"/>

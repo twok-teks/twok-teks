@@ -24,21 +24,32 @@ My background spans **backend engineering, cloud infrastructure, CI/CD, distribu
 
 I’m especially interested in creating solutions that are:
 
-- **Reliable** in real-world use  
-- **Maintainable** as systems evolve  
-- **Scalable** as complexity grows  
-- **Practical** for teams and users  
-- **Thoughtfully designed** from both engineering and product perspectives  
+- **Reliable** in real-world use
+- **Maintainable** as systems evolve
+- **Scalable** as complexity grows
+- **Practical** for teams and users
+- **Thoughtfully designed** from both engineering and product perspectives
 
 ---
-### ✦ Texas Roots **Houston** &nbsp;→&nbsp; **UT Dallas** &nbsp;→&nbsp; **UT Austin** <sub>Raised in Houston · B.S. Computer Science · M.S. Computer Science</sub>
+
+<div align="center">
+
+### ✦ Texas Roots
+
+**Houston** &nbsp;→&nbsp; **UT Dallas** &nbsp;→&nbsp; **UT Austin**
+
+<sub>Raised in Houston · B.S. Computer Science · M.S. Computer Science</sub>
+
+</div>
+
 ---
+
 ## ⚡ Core Focus
 
-- **Backend Engineering** — APIs, services, microservices, and system design  
-- **Cloud & Infrastructure** — AWS, containers, deployment workflows, and platform reliability  
-- **Developer Productivity** — CI/CD, automation, and maintainable engineering workflows  
-- **Applied AI/ML** — practical AI systems, LLM-oriented exploration, and intelligent tooling  
+- **Backend Engineering** — APIs, services, microservices, and system design
+- **Cloud & Infrastructure** — AWS, containers, deployment workflows, and platform reliability
+- **Developer Productivity** — CI/CD, automation, and maintainable engineering workflows
+- **Applied AI/ML** — practical AI systems, LLM-oriented exploration, and intelligent tooling
 
 ---
 
@@ -58,10 +69,10 @@ I’m especially interested in creating solutions that are:
 
 ## 💡 What I Value
 
-- Building software that holds up in production  
-- Keeping architecture clean and intentional  
-- Automating workflows where it creates real value  
-- Solving meaningful problems with practical technology  
+- Building software that holds up in production
+- Keeping architecture clean and intentional
+- Automating workflows where it creates real value
+- Solving meaningful problems with practical technology
 
 ---
 
@@ -85,6 +96,6 @@ Outside of engineering, I enjoy traveling, design, nature, gaming, and learning 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" alt="footer"/>
 
 </div>

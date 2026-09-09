@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=30&fontAlignY=45&animation=fadeIn" alt="header"/>
-
-# Software Engineer
-
-### Backend · Cloud · AI/ML
-
-Building reliable software, practical systems, and thoughtful engineering solutions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF&text=Khanh%20Van&fontColor=ffffff&fontSize=30&fontAlignY=42&animation=fadeIn" alt="header"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+%E2%80%A2+Cloud+%E2%80%A2+AI%2FML;Building+reliable+and+practical+systems" alt="typing subtitle" />
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://twok-teks.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnqkhanh/)
@@ -32,11 +30,11 @@ I’m especially interested in solving complex engineering problems with solutio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,go,python,js,spring,react,aws,docker,kubernetes,postgres,gitlab" alt="Core Technologies" />
+<img src="https://skillicons.dev/icons?i=java,go,python,spring,react,aws,docker,kubernetes,postgres,gitlab" alt="Core Technologies" />
 
 <br/><br/>
 
-`Java` · `Go` · `Python` · `Spring Boot` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes` · `GitLab CI/CD`
+`Java` · `Go` · `Python` · `Spring Boot` · `React` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes` · `GitLab CI/CD`
 
 </div>
 
@@ -44,42 +42,16 @@ I’m especially interested in solving complex engineering problems with solutio
 
 ## Engineering Focus
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-### ⚙️ Backend
+| Backend | Cloud | AI / ML |
+|---|---|---|
+| APIs & Services | AWS | Applied AI |
+| Microservices | Containers | LLM Systems |
+| System Design | CI/CD | RAG |
+| Data Integration | Infrastructure | Model Reliability |
 
-APIs & services  
-Microservices  
-System design  
-Data integration  
-
-</td>
-
-<td width="33%" valign="top">
-
-### ☁️ Cloud
-
-AWS  
-Containers  
-CI/CD  
-Infrastructure  
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 AI / ML
-
-Applied AI  
-LLM systems  
-RAG  
-Model reliability  
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -111,6 +83,6 @@ Outside of work, I enjoy traveling, exploring nature, gaming, design, and learni
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=70&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=90&section=footer&color=0:1A1026,35:3B1D5A,70:6D28D9,100:C77DFF" alt="footer"/>
 
 </div>

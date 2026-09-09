@@ -34,7 +34,7 @@ I’m especially interested in creating solutions that are:
 
 <div align="center">
 
-### ✦ Texas Roots
+### 🤠 Texas Roots 🤘
 
 **Houston** &nbsp;→&nbsp; **UT Dallas** &nbsp;→&nbsp; **UT Austin**
 
